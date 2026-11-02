@@ -4,36 +4,40 @@
     "url": "https://bastamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/bastamp.com.ico",
     "slug": "ba-stamp-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1487,
-    "timeDay": 1093,
-    "timeWeek": 1013,
-    "timeMonth": 1417,
-    "timeYear": 1487,
-    "dailyMinutesDown": {}
+    "time": 1474,
+    "timeDay": 608,
+    "timeWeek": 986,
+    "timeMonth": 1376,
+    "timeYear": 1474,
+    "dailyMinutesDown": {
+      "2026-11-02": 0
+    }
   },
   {
     "name": "BA Stamp App",
     "url": "https://bastamp.com/docs/api",
     "icon": "https://icons.duckduckgo.com/ip3/bastamp.com.ico",
     "slug": "ba-stamp-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 232,
-    "timeWeek": 291,
-    "timeMonth": 298,
+    "timeDay": 220,
+    "timeWeek": 301,
+    "timeMonth": 295,
     "timeYear": 237,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-02": 0
+    }
   },
   {
     "name": "Polygon RPC (publicnode)",
@@ -48,7 +52,7 @@
     "uptimeYear": "100.00%",
     "time": 126,
     "timeDay": 154,
-    "timeWeek": 174,
+    "timeWeek": 198,
     "timeMonth": 139,
     "timeYear": 126,
     "dailyMinutesDown": {}
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 615,
     "timeDay": 222,
-    "timeWeek": 601,
+    "timeWeek": 654,
     "timeMonth": 644,
     "timeYear": 615,
     "dailyMinutesDown": {}
