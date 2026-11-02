@@ -4,19 +4,19 @@
     "url": "https://bastamp.com",
     "icon": "https://icons.duckduckgo.com/ip3/bastamp.com.ico",
     "slug": "ba-stamp-website",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "92.64%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.93%",
-    "time": 1463,
-    "timeDay": 164,
-    "timeWeek": 888,
-    "timeMonth": 1331,
-    "timeYear": 1463,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "72.62%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.76%",
+    "time": 1462,
+    "timeDay": 536,
+    "timeWeek": 932,
+    "timeMonth": 1329,
+    "timeYear": 1462,
     "dailyMinutesDown": {
-      "2026-11-02": 106
+      "2026-11-02": 394
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://bastamp.com/docs/api",
     "icon": "https://icons.duckduckgo.com/ip3/bastamp.com.ico",
     "slug": "ba-stamp-app",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "92.66%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.93%",
-    "time": 236,
-    "timeDay": 150,
-    "timeWeek": 275,
-    "timeMonth": 291,
-    "timeYear": 236,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "72.63%",
+    "uptimeWeek": "96.09%",
+    "uptimeMonth": "99.10%",
+    "uptimeYear": "99.76%",
+    "time": 237,
+    "timeDay": 203,
+    "timeWeek": 279,
+    "timeMonth": 292,
+    "timeYear": 237,
     "dailyMinutesDown": {
-      "2026-11-02": 106
+      "2026-11-02": 394
     }
   },
   {
